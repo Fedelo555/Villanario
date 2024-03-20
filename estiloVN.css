@@ -1,6 +1,6 @@
 html{
     scroll-behavior: smooth;
-    background-image: (greenback.jpg);
+    background-image: url(greenback.jpg);
     background-size: cover;
     font-family: Verdana;
     }
