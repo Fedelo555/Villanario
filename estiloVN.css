@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+    background-image: url(greenback.jpg);
+    background-size: cover;
+    font-family: Verdana;
+    }
+    #container{
+       
+        border-radius: 2em;
+                border: 4px solid black;
+        box-shadow: 4px 6px 10px #000;
+        
+    }
